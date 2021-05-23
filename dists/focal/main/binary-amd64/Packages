@@ -1,0 +1,17 @@
+Package: ros-noetic-teb-local-planner
+Version: 0.9.1-1focal
+Architecture: amd64
+Maintainer: Christoph Rösmann <christoph.roesmann@tu-dortmund.de>
+Installed-Size: 3409
+Depends: libboost-filesystem1.71.0, libboost-thread1.71.0, libc6 (>= 2.29), libconsole-bridge0.4, libcxsparse3 (>= 1:4.5.2), libgcc-s1 (>= 4.0), libstdc++6 (>= 9), libtinyxml2-6a (>= 5.0.0), ros-noetic-base-local-planner, ros-noetic-costmap-2d, ros-noetic-costmap-converter, ros-noetic-dynamic-reconfigure, ros-noetic-geometry-msgs, ros-noetic-interactive-markers, ros-noetic-libg2o, ros-noetic-mbf-costmap-core, ros-noetic-mbf-msgs, ros-noetic-message-runtime, ros-noetic-nav-core, ros-noetic-nav-msgs, ros-noetic-pluginlib, ros-noetic-roscpp, ros-noetic-std-msgs, ros-noetic-tf2, ros-noetic-tf2-ros, ros-noetic-visualization-msgs
+Homepage: http://wiki.ros.org/teb_local_planner
+Priority: optional
+Section: misc
+Filename: pool/main/r/ros-noetic-teb-local-planner/ros-noetic-teb-local-planner_0.9.1-1focal_amd64.deb
+Size: 638632
+SHA256: 76262f508ed0e77b314fe960a60ed15eaee7dbddff2d99f2d0f8fe6772c10b75
+SHA1: 3bd43ceec28bef300d4fef42a1c14e7583b80edc
+MD5sum: dce0d58b6ddfd728d38d6a95522c10e6
+Description: The teb_local_planner package implements a plugin to the base_local_planner of the 2D navigation stack.
+ The underlying method called Timed Elastic Band locally optimizes the robot's trajectory with respect to trajectory execution time, separation from obstacles and compliance with kinodynamic constraints at runtime.
+

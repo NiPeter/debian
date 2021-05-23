@@ -1,0 +1,7 @@
+Origin: JKow
+Label: JKow
+Codename: focal
+Architectures: amd64
+Components: main
+Description: JKow test private repository
+SignWith: 3B36D741009E49E399C4131D3A3CDDB437FF2176

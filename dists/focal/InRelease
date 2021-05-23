@@ -1,0 +1,36 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: JKow
+Label: JKow
+Codename: focal
+Date: Sun, 23 May 2021 10:30:27 UTC
+Architectures: amd64
+Components: main
+Description: JKow test private repository
+MD5Sum:
+ 938d7796f8449cdbe4306a0c8e306e5f 1491 main/binary-amd64/Packages
+ 028f583d7d009724d0fa6a4c6f6b38c5 783 main/binary-amd64/Packages.gz
+ 30e8fe6262df09f7039a51f39ff73fcf 103 main/binary-amd64/Release
+SHA1:
+ 1b3d0552a74272544794bf39ff8c2413124e738e 1491 main/binary-amd64/Packages
+ b7e89c5904cc0b8a1b25ddac7ef2a1ae054e041a 783 main/binary-amd64/Packages.gz
+ ea7e0273292e2dd32bddcaf8e13a6f2ecd8cad9f 103 main/binary-amd64/Release
+SHA256:
+ cdc1c1c305b7bbcb34f3874128750a630994a63c660e06a4e06a45cfd345c914 1491 main/binary-amd64/Packages
+ cd79b6ea0812fc13a7a8d019d3d392313b4adfa0096fec2cb28c679b46c10964 783 main/binary-amd64/Packages.gz
+ 4ce5147c1b9381cd49579d49dad47b4df2b88464e2b603a5fe6e21ce26a57d87 103 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCgAdFiEExya03oAyp0g0ih/cnz7GJQad1QQFAmCqLsQACgkQnz7GJQad
+1QREPgv/VoV/F3PqIninoaV6jkEJPafg+7sZbj2miMdFtAbh0R603FbXAWRo+w45
+8dcfY2MD/JcwrnXl/E8imHQW8dpONqv3xGCk+DSUZztkzppD14AJAPxQFHEzh/4j
+3blyqkasXQUrkhDsuGnTX4M5EgsxRglSwCW+jeltSMCPfzdh2GUOfSLejJgyBgBN
+tASIJ9Bb9rPwmgac2HyrGtcr5CJ8TRRLKVt5N9gsP3bmhc+9UQJyexxdMNVkui+V
+AUlm6A2WKKIC1S1gZgLcMZdNNuG5buOg7QPBapVxfTnfNMuBoSUcn4Qq4V5r+WGV
+HHw/AatQlKra78wg6phn0oh76H+3BgPNSNuIND2HASTUYAU2B0QYn3MW17VdZ0sm
+pRU9myPMOUx4Sj0YjjM6XDEb9tLToVvYge8596V2edVhgzFUuixErfSrjxBLHoA0
+qjrFr2XfvPReSClHeEtU5EkjjxwnQM2mD6+kMe9VxCc9g1iS2g4nlDmUhIIJxrgL
+XcEWvUhV
+=bkKL
+-----END PGP SIGNATURE-----
